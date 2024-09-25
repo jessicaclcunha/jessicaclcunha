@@ -2,7 +2,7 @@
 🎓**Software Engineering Student** at the **University of Minho**
 
 
-<h2 align="center">Stats</h2>
+<h2>Stats</h2>
 <div align="center>
   <picture>
     <source
