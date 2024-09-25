@@ -1,10 +1,21 @@
 # More about me
 🎓**Software Engineering Student** at the **University of Minho**
 
-## Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaclcunha&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaclcunha&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Stats</h2>
+<div align="center>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jessicaclcunha&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jessicaclcunha&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=jessicaclcunha&show_icons=true" />
+  </picture>
+</div>
 
 ## Contributions
 
