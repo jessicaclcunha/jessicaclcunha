@@ -32,4 +32,3 @@
 
 ![snake gif](https://raw.githubusercontent.com/jessicaclcunha/jessicaclcunha/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.verce.app/api.pin/?username-jessicaclcunha&repo=jessicaclcunha&theme=react)](https://github.com/jessicaclcunha/jessicaclcunha)
